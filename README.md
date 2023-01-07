@@ -7,7 +7,6 @@ Single domain version and batch version via csv list provided.
 You can find my posting on this topic here: https://terrantech.ca/wordcloud/2021/04/powershell-google-domain-dynamic-dns
 Thanks to Andrew Bresciano where this script is based from: http://andrewbresciano.com/about-me/personal-projects/googles-dynamic-dns-powershell-script
 
-
 -----
 This is free and unencumbered software released into the public domain.
 
